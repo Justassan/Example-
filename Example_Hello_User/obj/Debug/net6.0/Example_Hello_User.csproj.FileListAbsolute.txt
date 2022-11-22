@@ -1,0 +1,15 @@
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\bin\Debug\net6.0\Example_Hello_User.exe
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\bin\Debug\net6.0\Example_Hello_User.deps.json
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\bin\Debug\net6.0\Example_Hello_User.runtimeconfig.json
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\bin\Debug\net6.0\Example_Hello_User.dll
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\bin\Debug\net6.0\Example_Hello_User.pdb
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.csproj.AssemblyReference.cache
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.AssemblyInfoInputs.cache
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.AssemblyInfo.cs
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.csproj.CoreCompileInputs.cache
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.dll
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\refint\Example_Hello_User.dll
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.pdb
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\Example_Hello_User.genruntimeconfig.cache
+C:\Users\Asan\Desktop\DZ\Новая папка\Example\Example_Hello_User\obj\Debug\net6.0\ref\Example_Hello_User.dll
